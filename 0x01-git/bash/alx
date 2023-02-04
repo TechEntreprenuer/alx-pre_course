@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Alx":w
+echo "Alx School":w
 :wq
 
